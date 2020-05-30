@@ -1,0 +1,23 @@
+body {
+    min-height: 100vh;
+    position: relative;
+    padding-bottom: 200px;
+}
+
+.navbarList {
+    width: 100%;
+}
+
+footer {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+
+.textFooter {
+    color: whitesmoke;
+}
+
+.socialNetworkIcon {
+    font-size: 2rem;
+}
